@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=150&section=header&text=shchoi94%20&fontSize=30)  
-- Wanna be hot Pythonista & Server Engineer.  
+- Interested in Python & Server.  
    
       
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
