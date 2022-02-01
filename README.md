@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=150&section=header&text=shchoi94%20&fontSize=30)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=150&section=header&text=shchoi%20&fontSize=30)  
 - Interested in Python & Server.  
    
       
